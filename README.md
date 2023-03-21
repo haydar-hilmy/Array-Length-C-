@@ -1,5 +1,8 @@
 # Array Length in C++
 
+disini akan membuat array dari tipe data integer
+lalu menghitung panjang dari array menggunakan sizeof()
+
     #include <iostream>
 
     using namespace std;
